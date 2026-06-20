@@ -26,3 +26,19 @@ void loop() {
 
   lastState = currentState;
 }
+
+// 5 presses
+
+// Press detected! Count: 1
+// Press detected! Count: 2
+// Press detected! Count: 3
+// Press detected! Count: 4
+// Press detected! Count: 5
+// Press detected! Count: 6
+// Press detected! Count: 7
+// Press detected! Count: 8
+// Press detected! Count: 9
+// Press detected! Count: 10
+// Press detected! Count: 11
+// Press detected! Count: 12
+// Press detected! Count: 13
